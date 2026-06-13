@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PhysioQuest</title>
+<style>
+body{
+text-align:center;
+font-family:Arial;
+background:#0f172a;
+color:white;
+}
+
+button{
+padding:20px;
+margin:15px;
+width:250px;
+font-size:20px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>🏥 PHYSIOQUEST</h1>
+
+<h2>Select Joint</h2>
+
+<a href="shoulder.html">
+<button>Shoulder Joint</button>
+</a>
+
+<a href="elbow.html">
+<button>Elbow Joint</button>
+</a>
+
+<a href="wrist.html">
+<button>Wrist Joint</button>
+</a>
+
+<a href="hip.html">
+<button>Hip Joint</button>
+</a>
+
+<a href="knee.html">
+<button>Knee Joint</button>
+</a>
+
+<a href="ankle.html">
+<button>Ankle Joint</button>
+</a>
+
+</body>
+</html>
